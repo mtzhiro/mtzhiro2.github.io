@@ -33,7 +33,7 @@ OTERA-CAFE Cafe de Corazon
 
 Temple(OTERA) morning with MOKUGYO..
 
-,https://scontent-nrt1-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/35552196_10155572962912546_95317689509085184_n.jpg?_nc_cat=0&oh=4f081b67fc7df2bb8701aa6e2c3338e1&oe=5BA0A0DA
+<img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/35552196_10155572962912546_95317689509085184_n.jpg?_nc_cat=0&oh=4f081b67fc7df2bb8701aa6e2c3338e1&oe=5BA0A0DA" width="200" />
 
     MOKUGYO(Wooden fish)
 
