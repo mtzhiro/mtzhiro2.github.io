@@ -37,4 +37,4 @@ Temple(OTERA) morning with MOKUGYO..
 
     MOKUGYO(Wooden fish)
 
-<img src=",https://scontent-nrt1-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/35645310_10155572960522546_1815544411879112704_n.jpg?_nc_cat=0&oh=e153ba7ac73aaa0ceec276ffbf643afb&oe=5BAA5FEF" width="200" />
+<img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/35645310_10155572960522546_1815544411879112704_n.jpg?_nc_cat=0&oh=e153ba7ac73aaa0ceec276ffbf643afb&oe=5BAA5FEF" width="200" />
