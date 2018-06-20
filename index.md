@@ -2,6 +2,8 @@
 
 - http://mtzhiro.github.io/nextcloud
 - http://mtzhiro.github.io/cpghpsync
+
+- http://mtzhiro.github.io/opensource/kyoto
 - http://mtzhiro.github.io/kyoto/oteracafekongo
 
 <div style="text-align: right;">
