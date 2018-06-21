@@ -105,6 +105,11 @@ Googleスプレッドシート 関数 GOOGLETRANSLATE(翻訳する単語や短�
 
 https://docs.google.com/spreadsheets/d/1LFyU2PAjTdT42V73IzrvGSkYXnRpRzNYEsoQU5Z7LTM/edit#gid=0
 
+### ふりがな
+
+Linux上などで、mecab などで、用意された辞書を使うと、気軽に、「読み」のひらがな変換ができる
+
+https://qiita.com/kawasima/items/bf51e30d0e8c2e8103d6
 
 
 https://quizlet.com/39180682/duo-30-flash-cards/ http://caesalpina.com/ouo3/duo3_0.html
