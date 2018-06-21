@@ -39,6 +39,8 @@ http://plus-life.jp/englishphrase33
 
 グングン伸ばす日常英会話 カンタン50の質問文 http://www.berlitz-blog.com/ordinary-conversation
 
+海外旅行でも使える日常英会話表現フレーズを丸暗記 | 語学上達のコツ【初心者向けおすすめ勉強法】 http://travel-ts.com/gogaku/useful-phrase
+
 ## 参考2
 
 英語文法の基礎 | 英語イメージリンク https://www.english-speaking.jp/english-grammar-basis/
@@ -52,3 +54,26 @@ http://plus-life.jp/englishphrase33
 英語を話すために、英語の基本文という軸を持つ。 - 英語を話すコツを考える https://www.colombiacolom.net/entry/english-2
 
 英語の基本文をサッと手軽に見るサイト http://www.geocities.jp/kusumotokeiji/eigo10.htm
+
+英語上達には､まず基本語彙を丸暗記せよ | 非ネイティブのための英語スピーキング術 | 東洋経済オンライン | 経済ニュースの新基準 https://toyokeizai.net/articles/-/73269
+
+## その他参考
+
+### 参考「丸暗記否定派」
+
+英会話の表現のフレーズ暗記で挫折した女の末路 http://eigoguide.com/speaking/phrase/
+
+Amazon.co.jp： 丸暗記英語からの脱却〜世界一わかりやすい英文法〜 eBook: 氷室　英介: Kindleストア https://www.amazon.co.jp/%E4%B8%B8%E6%9A%97%E8%A8%98%E8%8B%B1%E8%AA%9E%E3%81%8B%E3%82%89%E3%81%AE%E8%84%B1%E5%8D%B4%E3%80%9C%E4%B8%96%E7%95%8C%E4%B8%80%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E8%8B%B1%E6%96%87%E6%B3%95%E3%80%9C-%E6%B0%B7%E5%AE%A4-%E8%8B%B1%E4%BB%8B-ebook/dp/B077SHPVSY
+
+｢丸暗記英単語｣の恥ずかしくて大きな弊害 | 実践！伝わる英語トレーニング | 東洋経済オンライン | 経済ニュースの新基準 https://toyokeizai.net/articles/-/177585
+
+ネイティブ英会話フレーズ丸暗記じゃダメ！まず英語感覚を身につけよう | 英会話教材バスターズ：海外10年男がおすすめ＆ダメ教材を評価！ https://eikaiwa4toeic700.com/kyouzai/native-phrase-and-fluency/
+
+『高齢になるとそもそも記憶力が低下するから丸暗記できないよ、派』
+
+40歳からの英語学び直し　丸暗記より効果的な方法｜くらし＆ハウス｜NIKKEI STYLE https://style.nikkei.com/article/DGXDZO56196780U3A610C1W02001
+
+### 参考「丸暗記否定派」受験英語編
+
+暗記という愚策！効率が3倍になる英語のレバレッジ勉強法｜ 英語学習ボックス http://eigo-box.jp/grammar/leverage/
+
