@@ -1,8 +1,8 @@
 # Natural Languages
 ## English
-  https://mtzhiro.github.io/naturallanguage/english
+  <a href="https://mtzhiro.github.io/naturallanguage/english">https://mtzhiro.github.io/naturallanguage/english</a>
 ## Portuguese
-  https://mtzhiro.github.io/naturallanguage/portuguese
+  <a href="https://mtzhiro.github.io/naturallanguage/portuguese">https://mtzhiro.github.io/naturallanguage/portuguese</a></a>
 ## Japanese(日本語；にほんご;NIHONGO)
-  https://mtzhiro.github.io/naturallanguage/japanese
+  <a href="https://mtzhiro.github.io/naturallanguage/japanese">https://mtzhiro.github.io/naturallanguage/japanese</a></a>
   
