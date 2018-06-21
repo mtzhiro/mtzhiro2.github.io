@@ -35,6 +35,8 @@
 
 ### Duo 3.0
 
+決まった表現、単語も重複しないで、、約500のフレーズ（表現）・約1,000の熟語、約1,600の英単語を丸暗記、という戦略でお馴染みのDuo(3.0)・・・参考になる！
+
 Duo 3.0 in Amazon  https://www.amazon.co.jp/dp/4900790052
 
 DUOで180日間勉強したので長所と短所＆使い方をまとめてみた | TOEIC 900点＆英会話上達をめざす英語勉強法・参考書まとめブログ｜Enjoy Life in English! http://enjoylifeinenglish.blog112.fc2.com/blog-entry-372.html
