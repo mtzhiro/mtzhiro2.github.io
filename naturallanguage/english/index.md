@@ -94,4 +94,4 @@ Amazon.co.jp： 丸暗記英語からの脱却〜世界一わかりやすい英�
 
 
 
-https://quizlet.com/39180682/duo-30-flash-cards/
+https://quizlet.com/39180682/duo-30-flash-cards/ http://caesalpina.com/ouo3/duo3_0.html
