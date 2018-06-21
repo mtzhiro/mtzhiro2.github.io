@@ -8,6 +8,22 @@
 
 - https://mtzhiro.github.io/naturallanguage
 
+<hr />
+
 <div style="text-align: right;">
+
+Hirosato Matsuura
+
+<a href="https://github.com/mtzhiro">mtzhiro</a>
+
+remote engineer, ask me about IT/Programming https://ms3web.site123.me
+
+rc
+
+
+hiromatuura@gmail.com
+
+https://ms3web.site123.me
+
 all contents shared by CC BY 3.0 by <a href="http://caesalpina.com/m3">M3</a>
 </div>
