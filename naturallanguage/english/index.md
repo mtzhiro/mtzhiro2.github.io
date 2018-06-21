@@ -19,7 +19,8 @@
             ※「ハウオー "ラー"」・・・英語習いたてはこんな風に聞こえる
               ものである・・このまま覚える！
        
--他の自然言語（特にポルトガル語、日本語）初級習得にも応用する　関連→　https://mtzhiro.github.io/naturallanguage/english https://mtzhiro.github.io/naturallanguage/japanese
+-他の自然言語（特にポルトガル語、日本語）初級習得にも応用する　関連→　https://mtzhiro.github.io/naturallanguage/english https://mtzhiro.github.io/naturallanguage/japanese 自然言語を超えて、共通な大事な表現というのはあると思うので、
+それらを抽出する。
 
 ## 参考1
 
