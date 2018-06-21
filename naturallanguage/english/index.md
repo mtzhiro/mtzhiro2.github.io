@@ -33,13 +33,27 @@
 
 ## 参考1
 
+### Duo 3.0
+
+Duo 3.0 in Amazon  https://www.amazon.co.jp/dp/4900790052
+
+DUOで180日間勉強したので長所と短所＆使い方をまとめてみた | TOEIC 900点＆英会話上達をめざす英語勉強法・参考書まとめブログ｜Enjoy Life in English! http://enjoylifeinenglish.blog112.fc2.com/blog-entry-372.html
+
+英会話は例文暗記から！『DUO 3.0』で海外へ出よう | Yayoi style https://yayoi0004.com/how-to-use-duo-777
+
+
+### 参考1その他
+
 "丸暗記で使える！日常英会話の基本フレーズ33選" by plus-life 2015/03/19
 
 http://plus-life.jp/englishphrase33
 
+
 グングン伸ばす日常英会話 カンタン50の質問文 http://www.berlitz-blog.com/ordinary-conversation
 
 海外旅行でも使える日常英会話表現フレーズを丸暗記 | 語学上達のコツ【初心者向けおすすめ勉強法】 http://travel-ts.com/gogaku/useful-phrase
+
+最短ルートで英語をマスターする現実的かつ効率的な勉強法まとめ - LITERALLY http://tsukuruiroiro.hatenablog.com/entry/2014/09/02/205648
 
 ## 参考2
 
@@ -56,6 +70,7 @@ http://plus-life.jp/englishphrase33
 英語の基本文をサッと手軽に見るサイト http://www.geocities.jp/kusumotokeiji/eigo10.htm
 
 英語上達には､まず基本語彙を丸暗記せよ | 非ネイティブのための英語スピーキング術 | 東洋経済オンライン | 経済ニュースの新基準 https://toyokeizai.net/articles/-/73269
+
 
 ## その他参考
 
