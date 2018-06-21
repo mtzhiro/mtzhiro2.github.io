@@ -16,14 +16,13 @@ Hirosato Matsuura
 
 <a href="https://github.com/mtzhiro">mtzhiro</a>
 
-remote engineer, ask me about IT/Programming https://ms3web.site123.me
+remote engineer, ask me about IT/Programming
 
 rc
 
+https://github.com/mtzhiro
 
 hiromatuura@gmail.com
-
-https://ms3web.site123.me
 
 all contents shared by CC BY 3.0 by <a href="http://caesalpina.com/m3">M3</a>
 </div>
