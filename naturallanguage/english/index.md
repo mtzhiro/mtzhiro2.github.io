@@ -53,7 +53,11 @@ http://plus-life.jp/englishphrase33
 
 海外旅行でも使える日常英会話表現フレーズを丸暗記 | 語学上達のコツ【初心者向けおすすめ勉強法】 http://travel-ts.com/gogaku/useful-phrase
 
+丸暗記できる英会話フレーズ集【日常会話編】 - NAVER まとめ https://matome.naver.jp/odai/2135812817480272501
+
 最短ルートで英語をマスターする現実的かつ効率的な勉強法まとめ - LITERALLY http://tsukuruiroiro.hatenablog.com/entry/2014/09/02/205648
+
+英会話の勉強でフレーズを暗記するのは本当にバカなのか？ - 〜世界が遊び場になった〜語学習得の原理原則でゼロから英語ペラペラになり海外で自由に遊ぶトモヤのブログ http://tomoya-worldenglish.com/post-908/
 
 ## 参考2
 
