@@ -22,7 +22,7 @@ seeking IT jobs work remotely
 
 rc
 
-https://github.com/mtzhiro
+https://mtzhiro.github.io
 
 hiromatuura@gmail.com
 
