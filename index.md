@@ -18,6 +18,8 @@ Hirosato Matsuura
 
 remote engineer, ask me about IT/Programming
 
+seeking IT jobs work remotely
+
 rc
 
 https://github.com/mtzhiro
