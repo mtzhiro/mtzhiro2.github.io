@@ -92,3 +92,6 @@ Amazon.co.jp： 丸暗記英語からの脱却〜世界一わかりやすい英�
 
 暗記という愚策！効率が3倍になる英語のレバレッジ勉強法｜ 英語学習ボックス http://eigo-box.jp/grammar/leverage/
 
+
+
+https://quizlet.com/39180682/duo-30-flash-cards/
