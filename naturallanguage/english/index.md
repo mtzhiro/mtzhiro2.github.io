@@ -1,5 +1,6 @@
 # English
-
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　上の階層 https://mzhiro.github.io/naturallanguage
+                              
 自然言語習得（いわゆる語学学習）を中心に。ここでは英語について。他に、ポルトガル語、日本語、を準備中。
 
 ## 戦略
@@ -97,6 +98,12 @@ Amazon.co.jp： 丸暗記英語からの脱却〜世界一わかりやすい英�
 ### 参考「丸暗記否定派」受験英語編
 
 暗記という愚策！効率が3倍になる英語のレバレッジ勉強法｜ 英語学習ボックス http://eigo-box.jp/grammar/leverage/
+
+## Google Translateで翻訳
+
+Googleスプレッドシート 関数 GOOGLETRANSLATE(翻訳する単語や短い文,この言語から(ja, en),この言語に(en, ..))のテスト
+
+https://docs.google.com/spreadsheets/d/1LFyU2PAjTdT42V73IzrvGSkYXnRpRzNYEsoQU5Z7LTM/edit#gid=0
 
 
 
