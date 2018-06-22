@@ -9,5 +9,5 @@ http://opennotebook.org/ja/ospn
 
 
 ## 2018
-- 大阪府北部地震をうけて立ち上がった銭湯マップ(GoogleMap上)をOSMにも対応させるとりくみ http://caesalpina.com/osakanortheq18 by <a href="http://caesalpina.com/M3">M3</a>
+- 大阪府北部地震をうけて立ち上がった銭湯マップ(GoogleMap上)をOSMにも対応させるとりくみ <a href="http://caesalpina.com/osakanortheq18">http://caesalpina.com/osakanortheq18</a> by <a href="http://caesalpina.com/M3">M3</a>
 - オープンソースの体験ができる　OSS GATE Kyoto https://oss-gate.doorkeeper.jp/events/73313
