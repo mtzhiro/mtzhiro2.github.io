@@ -1,13 +1,27 @@
 # mtzhiro github page
 ## <a href="https://mtzhiro.github.io">https://mtzhiro.github.io</a>
 
-- https://mtzhiro.github.io/nextcloud
-- https://mtzhiro.github.io/cpghpsync
+##Code
 
-- https://mtzhiro.github.io/opensource/kyoto
-- https://mtzhiro.github.io/kyoto/oteracafekongo
+- <a href="https://https://mtzhiro.github.io/nextcloud">nextcloud</a>
+- <a href="https://https://mtzhiro.github.io/cpghpsync">cpghpsync</a>
+- <a href="https://https://mtzhiro.github.io/opsakanortheq18onsen">opsakanortheq18onsen</a>
 
-- https://mtzhiro.github.io/naturallanguage
+##Kyoto
+
+- <a href="https://https://mtzhiro.github.io/opensource/kyoto">opensource/kyoto</a>
+
+- <a href="https://https://mtzhiro.github.io/kyoto">kyoto</a>
+
+-- <a href="https://https://mtzhiro.github.io/kyoto/oteracafekongo">kyoto/oteracafekongo</a>
+
+##(Natural)Languages
+
+- <a href="https://https://mtzhiro.github.io/naturallanguage">Languages</a>
+
+-- <a href="https://https://mtzhiro.github.io/naturallanguage/english">English</a>
+
+
 
 <hr />
 
@@ -23,9 +37,9 @@ seeking IT jobs work remotely
 
 rc
 
-https://mtzhiro.github.io
+<a href="https://https://mtzhiro.github.io"></a>
 
-hiromatuura@gmail.com
+<a href="https://hiromatuura@gmail.com"></a>
 
 all contents shared by CC BY 3.0 by <a href="http://caesalpina.com/m3">M3</a>
 </div>
