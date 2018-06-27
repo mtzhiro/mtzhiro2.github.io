@@ -1,13 +1,13 @@
 # mtzhiro github page
 ## <a href="https://mtzhiro.github.io">https://mtzhiro.github.io</a>
 
-##Code
+## Code
 
 - <a href="https://https://mtzhiro.github.io/nextcloud">nextcloud</a>
 - <a href="https://https://mtzhiro.github.io/cpghpsync">cpghpsync</a>
 - <a href="https://https://mtzhiro.github.io/opsakanortheq18onsen">opsakanortheq18onsen</a>
 
-##Kyoto
+## <a href="https://https://mtzhiro.github.io/kyoto">Kyoto</a>
 
 - <a href="https://https://mtzhiro.github.io/opensource/kyoto">opensource/kyoto</a>
 
@@ -15,7 +15,7 @@
 
 -- <a href="https://https://mtzhiro.github.io/kyoto/oteracafekongo">kyoto/oteracafekongo</a>
 
-##(Natural)Languages
+## <a href="https://https://mtzhiro.github.io/naturallanguage">(Natural)Languages</a>
 
 - <a href="https://https://mtzhiro.github.io/naturallanguage">Languages</a>
 
