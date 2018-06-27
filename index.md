@@ -27,9 +27,7 @@
 
 <div style="text-align: right;">
 
-Hirosato Matsuura
-
-<a href="https://github.com/mtzhiro">mtzhiro</a>
+Hirosato Matsuura <a href="https://github.com/mtzhiro">mtzhiro</a>
 
 remote engineer, ask me about IT/Programming
 
@@ -37,9 +35,9 @@ seeking IT jobs work remotely
 
 rc
 
-<a href="https://https://mtzhiro.github.io"></a>
+<a href="https://https://mtzhiro.github.io">https://https://mtzhiro.github.io</a>
 
-<a href="https://hiromatuura@gmail.com"></a>
+<a href="hmailto:hiromatuura@gmail.com">hiromatuura@gmail.com</a>
 
 all contents shared by CC BY 3.0 by <a href="http://caesalpina.com/m3">M3</a>
 </div>
