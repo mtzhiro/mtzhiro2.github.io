@@ -3,23 +3,23 @@
 
 ## Code
 
-- <a href="https://https://mtzhiro.github.io/nextcloud">nextcloud</a>
-- <a href="https://https://mtzhiro.github.io/cpghpsync">cpghpsync</a>
-- <a href="https://https://mtzhiro.github.io/opsakanortheq18onsen">opsakanortheq18onsen</a>
+- <a href="https://mtzhiro.github.io/nextcloud">nextcloud</a>
+- <a href="https://mtzhiro.github.io/cpghpsync">cpghpsync</a>
+- <a href="https://mtzhiro.github.io/opsakanortheq18onsen">opsakanortheq18onsen</a>
 
-## <a href="https://https://mtzhiro.github.io/kyoto">Kyoto</a>
+## <a href="https://mtzhiro.github.io/kyoto">Kyoto</a>
 
-- <a href="https://https://mtzhiro.github.io/opensource/kyoto">opensource/kyoto</a>
+- <a href="https://mtzhiro.github.io/opensource/kyoto">opensource/kyoto</a>
 
-- <a href="https://https://mtzhiro.github.io/kyoto">kyoto</a>
+- <a href="https://mtzhiro.github.io/kyoto">kyoto</a>
 
--- <a href="https://https://mtzhiro.github.io/kyoto/oteracafekongo">kyoto/oteracafekongo</a>
+-- <a href="https://mtzhiro.github.io/kyoto/oteracafekongo">kyoto/oteracafekongo</a>
 
-## <a href="https://https://mtzhiro.github.io/naturallanguage">(Natural)Languages</a>
+## <a href="https://mtzhiro.github.io/naturallanguage">(Natural)Languages</a>
 
-- <a href="https://https://mtzhiro.github.io/naturallanguage">Languages</a>
+- <a href="https://mtzhiro.github.io/naturallanguage">Languages</a>
 
--- <a href="https://https://mtzhiro.github.io/naturallanguage/english">English</a>
+-- <a href="https://mtzhiro.github.io/naturallanguage/english">English</a>
 
 
 
@@ -35,7 +35,7 @@ seeking IT jobs work remotely
 
 rc
 
-<a href="https://https://mtzhiro.github.io">https://https://mtzhiro.github.io</a>
+<a href="https://mtzhiro.github.io">https://https://mtzhiro.github.io</a>
 
 <a href="hmailto:hiromatuura@gmail.com">hiromatuura@gmail.com</a>
 
