@@ -1,2 +1,3 @@
 ## PC / SmartPhone support
-http://gramming.jp
+<a href="http://gramming.jp">http://gramming.jp</a>
+
