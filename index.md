@@ -12,6 +12,8 @@
 
 　PCサポート、連絡フォーム、メールアドレス(q@gramming.jp)、FB、Twiiter(@dig_italian)、BBS（掲示板）他
   
+ 　-- LINE@でデジタルライフビジネス <a href="http://gramming.jp/lineat">http://gramming.jp/lineat</a>
+
   
 ## <a href="https://mtzhiro.github.io/kyoto">Kyoto</a>
 
