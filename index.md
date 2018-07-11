@@ -12,7 +12,7 @@
 
 　PCサポート、連絡フォーム、メールアドレス(q@gramming.jp)、FB、Twiiter(@dig_italian)、BBS（掲示板）他
   
- 　-- LINE@でデジタルライフビジネス <a href="/digital/lineat">https://mtzhiro.github.io/digital/lineat</a>
+ 　-- LINE@でデジタルライフビジネス <a href="https://mtzhiro.github.io/digital/lineat">https://mtzhiro.github.io/digital/lineat</a>
 
   
 ## <a href="https://mtzhiro.github.io/kyoto">Kyoto</a>
