@@ -8,6 +8,7 @@
 - <a href="https://mtzhiro.github.io/cpghpsync">cpghpsync</a>
 - <a href="https://mtzhiro.github.io/nextcloud">nextcloud</a>
 :
+- <a href="https://mtzhiro.github.io/digital">DigitalLife デジタルライフ</a>
 - <a href="https://mtzhiro.github.io/digital/support_gramming">gramming.jp PC / Smartphone support</a>
 
 　PCサポート、連絡フォーム、メールアドレス(q@gramming.jp)、FB、Twiiter(@dig_italian)、BBS（掲示板）他
