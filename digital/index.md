@@ -15,6 +15,7 @@ PCサポートの勉強会や相談会など・・  by cudasai グループ
 
 　　　<a href="http://cudasai.com/cudasai-form-test/cudasa-form-test.php.txt">http://cudasai.com/cudasai-form-test/cudasa-form-test.php.txt</a>
 　　　　　cudasai(クダサイ) form テスト　ソース autocomplete="organization" などをテスト
+     <img src="http://cudasai.com/wp-content/uploads/2018/07/cudasai2-300x225.png" alt="cudasaiman" />クダサイマン
      
 <a href="https://mtzhiro.github.io/digital/lineatinst">https://mtzhiro.github.io/digital/lineatinst</a>
 　　小さなビジネスをするにしても（小さなビジネスだからこそ？）LINE＠　（ラインアット）　を...
