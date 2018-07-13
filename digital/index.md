@@ -6,9 +6,16 @@ PCサポート　グラミング (gramming)
 
 ( <a href="http://gramming.jp">http://gramming.jp</a> )
 
-PCサポートの勉強会や相談会など・・
+PCサポートの勉強会や相談会など・・  by cudasai グループ
 
 ## ビジネス（デジタルライフ・ビジネス）
+
+<a href="http://cudasai.com">http://cudasai.com</a>
+　　cudasai(クダサイ) - いろいろシェア...
+
+　　　<a href="http://cudasai.com/cudasai-form-test/cudasa-test-form.php.txt">http://cudasai.com/cudasai-form-test/cudasa-test-form.php.txt</a>
+　　　　　cudasai(クダサイ) form テスト　ソース autocomplete="organization" などをテスト
+     
 <a href="https://mtzhiro.github.io/digital/lineatinst">https://mtzhiro.github.io/digital/lineatinst</a>
 　　小さなビジネスをするにしても（小さなビジネスだからこそ？）LINE＠　（ラインアット）　を...
   
