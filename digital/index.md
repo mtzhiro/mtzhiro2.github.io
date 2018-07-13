@@ -13,7 +13,7 @@ PCサポートの勉強会や相談会など・・  by cudasai グループ
 <a href="http://cudasai.com">http://cudasai.com</a>
 　　cudasai(クダサイ) - いろいろシェア...
 
-　　　<a href="http://cudasai.com/cudasai-form-test/cudasa-test-form.php.txt">http://cudasai.com/cudasai-form-test/cudasa-test-form.php.txt</a>
+　　　<a href="http://cudasai.com/cudasai-form-test/cudasa-form-test.php.txt">http://cudasai.com/cudasai-form-test/cudasa-form-test.php.txt</a>
 　　　　　cudasai(クダサイ) form テスト　ソース autocomplete="organization" などをテスト
      
 <a href="https://mtzhiro.github.io/digital/lineatinst">https://mtzhiro.github.io/digital/lineatinst</a>
