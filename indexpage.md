@@ -44,7 +44,7 @@ seeking IT jobs work remotely
 
 rc
 
-<a href="https://mtzhiro.github.io">https://https://mtzhiro.github.io</a>
+<a href="https://mtzhiro.github.io">https://mtzhiro.github.io</a>
 
 <a href="hmailto:hiromatuura@gmail.com">hiromatuura@gmail.com</a>
 
