@@ -6,10 +6,16 @@
 <a href="http://rck.jp">Engineer(Web; エンジニア)</a> ,   <a href="http://opennotebook.org">Science Person(さいえんす。)</a>
 
 　　　　　　(<a href="http://t4510.club">http://t4510.club</a>)
-      
+
+nerd nite kansai organizer, researcher at University, freelance engineer, ...
+
 # Keyword/キーワード
 
-Brasil(ブラジル), ...
+Brasil(ブラジル), <a href="https://ospn.jp">OpenSource</a>, AI, ...
+
+# Project
+
+<a href="http://gramming.jp">PC勉強会等 グラミング</a>, <a href="http://cudasai.com">クダサイ</a>, ...
 
 ## <a href="https://mtzhiro.github.io/a/i18">memo</a> 
 
