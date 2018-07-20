@@ -5,6 +5,12 @@
 
 <a href="http://rck.jp">Engineer(Web; エンジニア)</a> ,   <a href="http://opennotebook.org">Science Person(さいえんす。)</a>
 
+　　　　　　(<a href="http://t4510.club">http://t4510.club</a>)
+      
+# Keyword/キーワード
+
+Brasil(ブラジル), ...
+
 ## <a href="https://mtzhiro.github.io/a/i18">memo</a> 
 
 # <a href="https://mtzhiro.github.io/indexpage">mtzhiro page</a>
