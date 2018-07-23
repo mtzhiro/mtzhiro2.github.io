@@ -1,5 +1,5 @@
 # Opensource * Kyoto
-## オープンソース＊京都
+## オープンソース＊京都　by <a href="https://codetomodachi.hateblo.jp/">キャプテンちゅばさ</a>
 
      * = Conference, People Network
 
@@ -18,3 +18,5 @@ https://www.facebook.com/photo.php?fbid=1708995689213789&set=a.101013136678727.2
 -- related <a href="https://github.com/mtzhiro/opsakanortheq18onsen">https://github.com/mtzhiro/opsakanortheq18onsen</a>
 
 - オープンソースの体験ができる　OSS GATE Kyoto https://oss-gate.doorkeeper.jp/events/73313 Osaka https://oss-gate.doorkeeper.jp/events/75580
+
+こちらもどうぞ、<a href="https://codetomodachi.hateblo.jp/">「コードは友達」 キャプテンちゅばさ のブログ</a>
