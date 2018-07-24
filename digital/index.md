@@ -20,4 +20,4 @@ PCサポートの勉強会や相談会など・・  by cudasai グループ
 <a href="https://mtzhiro.github.io/digital/lineatinst">https://mtzhiro.github.io/digital/lineatinst</a>
 　　小さなビジネスをするにしても（小さなビジネスだからこそ？）LINE＠　（ラインアット）　を...
   
-　　　　　　　　　by デジタルライフ・アドバイザー　<a href="http://caesalpina.com/M3">M3</a>
+　　　　　　　　　by デジタルライフ・アドバイザー　<a href="http://caesalpina.com/M3">M3</a> aka <a href="https://codetomodachi.hateblo.jp/">キャプテンちゅばさ</a>
