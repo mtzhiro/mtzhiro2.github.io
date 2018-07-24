@@ -9,6 +9,8 @@
 
 nerd nite kansai organizer, researcher at University, freelance engineer, ...
 
+### まっさん (nickname; M3, Mas3)
+
 # Keyword/キーワード
 
 Brasil(ブラジル), <a href="https://codetomodachi.hateblo.jp/">OpenSource</a>, <a href="http://anomalyneo.com/">AI</a>, ...
