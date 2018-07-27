@@ -52,10 +52,7 @@ COUNFIFを使って、かぞえてみます。ドキュメント開いたたび�
     Momonga Project	7
     小江戸らぐ	7
     Firebird日本ユーザー会	7
-    Geeklog Japanese	7
-    Momonga Project	7
     オープンソースビジネス推進協議会	7
-    Firebird日本ユーザー会	7
     LILO	6
 
 だいたいこんな感じですね－。回数順、登場早い（参加早い）順です。
