@@ -1,4 +1,4 @@
-# OSC京都にどれくらいの企業・コミュニティが来てたかの統計をとってみる・ω・
+# OSC京都にどれくらいの企業・コミュニティが来てるのかの統計をとってみる・ω・
 https://mtzhiro.github.io/opensource/kyoto/staticskyotogroup
 
 まずは単純コピペ作業
@@ -11,12 +11,14 @@ http://www.ospn.jp/osc2007-kansai/（あるいは -kyoto）からコピペして
 C-X（（キーボードマクロ開始）、C-D（行頭の「・」を消してる）、C-A、C-E、TAB、C-XO（バッファ移動）、C-A、C-@（マークセット）、C-E、E-W（リージョンコピー））、C-XO、C-XO、もとのバッファに戻る、C-Y（貼り付け）、TAB・・的なことを繰り返します。
 キリの良いところでC-X）（キーボードマクロ終了）して、あとはC-XEで繰り返していくとこういうリストができます。
 
-企業名１  年度  組織種類
-企業名２  年度  組織種類
-：
-コミュニティ名１  年度  組織種類
-：
+    企業名１  年度  組織種類
+    企業名２  年度  組織種類
+    ：
+    コミュニティ名１  年度  組織種類
+    ：
 
 できた表計算ファイルがこちら（Googleドライブ上）
+
+https://docs.google.com/spreadsheets/d/1f7suX4Ze01t22F2PAUXUhZsY6FTqAaXkqPnXsKUqnZk/edit#gid=0
 
 
