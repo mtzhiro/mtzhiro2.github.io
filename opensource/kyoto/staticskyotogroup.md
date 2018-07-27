@@ -1,6 +1,5 @@
-OSC京都にどれくらいの企業・コミュニティが来てたかの統計をとってみる・ω・
-
-https://mtzhiro.github.io/opensourc/kyoto/staticskyotogroup
+# OSC京都にどれくらいの企業・コミュニティが来てたかの統計をとってみる・ω・
+https://mtzhiro.github.io/opensource/kyoto/staticskyotogroup
 
 まずは単純コピペ作業
 
