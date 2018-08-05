@@ -28,7 +28,7 @@ InstagramのURLを入れると、そのURLに紐づく画像のURLを表示す�
   //1枚目の画像を取得
   $fa = array();
   // 1枚目の画像を見つける正規表現
-  preg_match("/config_height\":750}.*?(https:\/\/.*?\.jpg)/", $str, $fa);
+  preg_match("/config_width\":750.*?(https:\/\/.*?\.jpg)/", $str, $fa);
   
   //いちおう画像を表示
   echo "f:<img src=\"" . $fa[1] . "\" alt=\"\" width=\"200\" />\n";
