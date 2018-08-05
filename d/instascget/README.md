@@ -1,4 +1,4 @@
-# InstagramのURLを入れると紐づく画像を取得するPHPスクリプト
+# InstagramのURLから紐づく画像を取得するPHPスクリプト
 
 instascget.php
 
