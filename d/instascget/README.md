@@ -17,7 +17,7 @@ InstagramのURLを入れると紐づく画像を取得します。
 
 時々、ちゃんと画像が返ってこないことがあります。
 
-　　→Instagramの仕様？
+　　→Instagramの仕様による、影響？
   
   https://github.com/mtzhiro/mtzhiro.github.io/tree/master/d/instascget
   
