@@ -9,6 +9,14 @@ InstagramのURLを入れると紐づく画像を取得します。
 
 テストしてくださる方と、PHPスクリプトを載せたURLを募集します。 https:/mtzhiro.github.io までご連絡いただければ・・
 
+## インストール方法
+
+instascget.php を何らかの方法でダウンロードし、Webサーバーに設置します。例では、 /Webサーバーの公開ディレクトリ/instascget/instascget.php に置いています。
+
+## 動作確認
+
+Apache httpd 2.4.x, PHP 5.6.31 (cli)
+
 ## 仕様
 
 静止画はそのまま、静止画のURLが取得できます。
