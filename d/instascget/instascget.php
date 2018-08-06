@@ -1,3 +1,12 @@
+<?php
+/*
+   instascget
+     instascget.php
+     Ver.1.0 (UTF-8)
+     License: GNU General Public License v2 or later
+     License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ */
+?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="ja">
 <head>
