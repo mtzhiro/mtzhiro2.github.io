@@ -7,7 +7,7 @@
 <h1>insta sc get</h1>
 <div>
 InstagramのURLを入れると、そのURLに紐づく画像のURLを表示するPHPスクリプト<br />
-<form action="/insta4.php" method="get" name="finsta" id="">
+<form action="/instascget/instascget.php" method="get" name="finsta" id="ifinsta">
   <input type="text" name="instaurl" value="" size="40" /><input type="submit" name="instasub" value="get" /><br />
 </form>
 
