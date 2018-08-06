@@ -15,7 +15,9 @@ instascget.php を何らかの方法でダウンロードし、Webサーバー�
 
 ## 動作確認
 
-Apache httpd 2.4.x, PHP 5.6.31 (cli)
+Apache httpd 2.4.x, PHP 5.6.31 (cli) on CentOS6系
+
+　　WindowsのPHP(PHP 5.4.31 (cli))でも動かそうとしたのですが、HTMLソース取り出しの file_get_contents($url) 部分がうまく動きませんでした。（Unable to find the wrapper "https" - did you forget ・・）というエラーなので、それ関係で調べて解決できそうですが、まだできてません）
 
 ## 仕様
 
