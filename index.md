@@ -10,6 +10,8 @@
 
 nerd nite kansai organizer, researcher at University, freelance engineer, ...
 
+  050 5539 4367
+  
 ### まっさん (nickname; M3, Mas3)
 
 discord <a href="https://tiny.cc/chubasadcchannel">mtzhiro#5738#</a> ←<a href="https://tiny.cc/chubasarealtimetext">LIVETEXT/ライブテキスト実況</a>
