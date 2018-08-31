@@ -3,6 +3,7 @@
 ## 松浦弘智
 # <a href="https://disqus.com/by/mtzhiro">https://disqus.com/by/mtzhiro</a>
 <img src="http://hirosato.info/wp-content/uploads/2018/07/Portrait05.jpg" alt="MATSUURA, Hirosato" />  <a href="https://avatars0.githubusercontent.com/u/12418924?s=400&v=4">photo in github</a>
+# <a href="https://www.inoreader.com/u/mtzhiro">https://www.inoreader.com/u/mtzhiro</a>
 
 <a href="http://rck.jp">Engineer(Web; エンジニア)</a> ,   <a href="http://opennotebook.org">Science Person(さいえんす。)</a>
 
