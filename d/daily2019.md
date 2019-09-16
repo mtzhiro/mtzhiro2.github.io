@@ -10,3 +10,11 @@ nihongochat.com
 online event / sp
 テキスト同期 turn.js siema openbookpublishers.com RD-volunteer V-site rptphps flyer portlio
 "freedorothy.online" codeforamazonas 
+日本語てびき
+```text:sample
+   <div class="radioWave">
+      <p>日本語の</p>
+      <p>てびきになればいいな</p>
+   </div>
+   というぐあいに
+```(
