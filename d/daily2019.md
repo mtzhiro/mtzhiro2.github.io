@@ -18,3 +18,6 @@ online event / sp
    </div>
    というぐあいに
 ```
+back up †
+@Echo off
+c:\tool\putty\pscp.exe -P 22 c:\st\memost1.txt hiro@somewhere.com:/some/path/temp/
