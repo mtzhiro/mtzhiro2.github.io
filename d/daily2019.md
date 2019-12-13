@@ -23,4 +23,4 @@ back up †
 c:\tool\putty\pscp.exe -P 22 c:\st\memost1.txt hiro@somewhere.com:/some/path/temp/
 socialmedia summrize sns-summary fbtext2 bup 
 裁縫 nite Jishin fbtextkai 
-VRGogglesMan cc/sum+chg
+VRGogglesMan cc/sum+chg jishinnii
