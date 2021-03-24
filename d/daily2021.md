@@ -1,1 +1,1 @@
-lua lupa Esperanto site-u
+lua lupa Esperanto site-u gd2pdf
