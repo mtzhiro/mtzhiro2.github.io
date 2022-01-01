@@ -1,9 +1,0 @@
-#! /usr/bin/sh
-/usr/bin/wget -nc --no-check-certificate -O /var/www/html/githubio/mtzhiro.github.io/lifelog/index.html https://hirosato.info/lifelog
-today=`date "+%Y%m%d"`
-cd /var/www/html/githubio/mtzhiro.github.io/
-/usr/bin/git add --all
-#/usr/bin/git commit -m "test ${today}"
-/usr/bin/git commit -m "test 00"
-/usr/bin/git push origin master
-
