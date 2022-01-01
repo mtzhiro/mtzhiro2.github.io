@@ -39,11 +39,58 @@ ssh -T git@github.com
 > Hi username! You've successfully authenticated, but GitHub does not
 > provide shell access.
 
+設定確認
+git config --list
+
+user.name=mtzhiro
+user.email=mtzhiro@gmail.com
+
+などはなかったら設定する。
+
+
+git config --global user.name "mtzhiro"
+git config --global user.email mtzhiro@gmail.com
+
+再度 git config --list
+
+次にアクセストークンを取得
+github > Seettings > Developer setting > personal access token
+ghp_XXX000X~X~~XD9n5Rreuybv3uT0Ce のような文字列
+
+レポジトリの .git の形式も取得しておく git@github.com:mtzhiro/mtzhiro.github.io.git
+
+以下コマンド
+git remote set-url origin https://ユーザ名:アクセストークン@github.com/ユーザ名/リポジトリ名.git/
+
+サンプル
+git remote set-url origin https://git:ghp_XXX000X~X~~XD9n5Rreuybv3uT0Ce@github.com/mtzhiro/mtzhiro.github.io.git/
+
 clone をテスト（これはSSHに関係なくできる。課題は、手元で更新したものがSSH経由でgithub上にアップデートできるか）
 
-git clone https://github.com/mtzhiro/mtzhiro.github.io
+  git clone https://github.com/mtzhiro/mtzhiro.github.io
+  [編集 例では git.html を編集]
+  git add git.html 
+  git commit -m 'git matome'
+  git push origin master
+  x ユーザーなどをきかれたらどこか設定がおかしい
+　o 以下のようになればOK
+    Counting objects: 5, done.
+    Delta compression using up to 2 threads.
+    Compressing objects: 100% (3/3), done.
+    :
+    :
+    remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+    To https://git: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@github.com/mtzhiro/mtzhiro.github.io.git/
+     7e2498e..c071bc5  master -> master
+
+github.comオンラインエディタなど更新されているかで一応確認しておく
 
 
+
+参考
+<a href="https://www.yoheim.net/blog.php?q=20140104">https://www.yoheim.net/blog.php?q=20140104</a>
+アクセストークン
+<a href="https://qiita.com/kz800/items/497ec70bff3e555dacd0">https://qiita.com/kz800/items/497ec70bff3e555dacd0</a>
 </pre>
 </pre>
 </body>
