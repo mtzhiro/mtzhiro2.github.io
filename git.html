@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <meta charset="UTF-8" />
@@ -32,21 +31,32 @@
 SSH設定参考
 
 流れ
-sshkeygen で公開・秘密キー作成
-手元に設定　キー・アクセス情報（Hostなど）config
-Webブラウザ上でgithubにキー情報
-アクセストークン取得
-手元に設定
-sshアクセスができるようになる
+  sshkeygen で公開・秘密キー作成
+  手元に設定　キー・アクセス情報（Hostなど）config
+  Webブラウザ上でgithubにキー情報
+  アクセストークン取得
+  手元に設定
+  sshアクセスができるようになる
 
 参考
 <a href="https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
+sshkeygen で公開・秘密キー作成
+
+(add SSH key https://github.com/settings/keys
+  ssh-keygen -t ed25519
+  cat ~/.ssh/id_ed25519.pub then copy and pase key content
+  or ssh-add ..
+
+
+設定後テスト
 ssh -T git@github.com
 
 以下だったら成功
 > Hi username! You've successfully authenticated, but GitHub does not
 > provide shell access.
+
+
 
 設定確認
 git config --list
@@ -72,6 +82,13 @@ git remote set-url origin https://ユーザ名:アクセストークン@github.c
 
 サンプル
 git remote set-url origin https://git:ghp_XXX000X~X~~XD9n5Rreuybv3uT0Ce@github.com/mtzhiro/mtzhiro.github.io.git/
+
+設定後テスト
+ssh -T git@github.com
+
+以下だったら成功
+> Hi username! You've successfully authenticated, but GitHub does not
+> provide shell access.
 
 clone をテスト（これはSSHに関係なくできる。課題は、手元で更新したものがSSH経由でgithub上にアップデートできるか）
 
