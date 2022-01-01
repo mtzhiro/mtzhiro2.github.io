@@ -29,8 +29,22 @@
 <body>
 <h2>git and github</h2>
 <pre style="white-space: pre-wrap;">
+参考
+
 <a href="https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
-</pre</a>
+
+ssh -T git@github.com
+
+以下だったら成功
+> Hi username! You've successfully authenticated, but GitHub does not
+> provide shell access.
+
+clone をテスト（これはSSHに関係なくできる。課題は、手元で更新したものがSSH経由でgithub上にアップデートできるか）
+
+git clone https://github.com/mtzhiro/mtzhiro.github.io
+
+
+</pre>
 </pre>
 </body>
 </html>
