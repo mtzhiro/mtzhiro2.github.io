@@ -29,8 +29,17 @@
 <body>
 <h2>git and github</h2>
 <pre style="white-space: pre-wrap;">
-参考
+SSH設定参考
 
+流れ
+sshkeygen で公開・秘密キー作成
+手元に設定　キー・アクセス情報（Hostなど）config
+Webブラウザ上でgithubにキー情報
+アクセストークン取得
+手元に設定
+sshアクセスができるようになる
+
+参考
 <a href="https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 ssh -T git@github.com
@@ -46,7 +55,6 @@ user.name=mtzhiro
 user.email=mtzhiro@gmail.com
 
 などはなかったら設定する。
-
 
 git config --global user.name "mtzhiro"
 git config --global user.email mtzhiro@gmail.com
@@ -91,6 +99,10 @@ github.comオンラインエディタなど更新されているかで一応確�
 <a href="https://www.yoheim.net/blog.php?q=20140104">https://www.yoheim.net/blog.php?q=20140104</a>
 アクセストークン
 <a href="https://qiita.com/kz800/items/497ec70bff3e555dacd0">https://qiita.com/kz800/items/497ec70bff3e555dacd0</a>
+
+
+コマンド色々
+https://qiita.com/konweb/items/621722f67fdd8f86a017
 </pre>
 </pre>
 </body>
