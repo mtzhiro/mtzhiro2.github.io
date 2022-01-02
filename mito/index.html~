@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <meta charset="UTF-8" />
-<title>git and github</title>
+<title>Hiro , Mito 水戸市</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/article#">
 <meta property="og:url" content=" ページの URL" />
@@ -26,9 +26,13 @@
 <!--link rel="stylesheet" href="style.css" type="text/css" media="screen" /-->
 </head>
 <body>
-<h2>git and github</h2>
+<h2>Hiro , Mito 水戸市</h2>
 <pre style="white-space: pre-wrap;">
-SSH設定参考
+水戸市盆踊りプロジェクト　2022
+この盆踊りの曲名を調査中！
+
+
+歌詞　聞き取り
 
 流れ
   sshkeygen で公開・秘密キー作成
@@ -124,6 +128,7 @@ https://qiita.com/konweb/items/621722f67fdd8f86a017
 <hr>
 source
 <a href="dgit_sh.txt">dgit.sh</a>
+</pre>
 </pre>
 </body>
 </html>
