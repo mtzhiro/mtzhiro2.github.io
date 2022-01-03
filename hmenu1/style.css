@@ -172,6 +172,8 @@ main div.hblock {
     content: "Ξ";
     font-size: 30px;
     line-height: 1;
+    padding: 10px;
+    background:rgba(140,140,140,0.5);
 }
 .menu-ul {
     position: absolute;
@@ -262,6 +264,7 @@ main div.hblock {
 
 
 .gnav {
+  display: block;
   width: 100%;
   /*height: 40px;*/
   height: 40px;
@@ -269,7 +272,6 @@ main div.hblock {
   padding: 0;
 /*  background: #9fb7d4;*/
   background: #3f6784;
-  display: block;
 }
 .gnav .ggnav {
 /*  width: 300px;*/
@@ -308,7 +310,8 @@ main div.hblock {
   text-decoration: none;
   float: none;
 }
-/*.gnav .ggnav li:first-child {
+/*
+.gnav .ggnav li:first-child {
 margin-left: 50px;
   border-left: 1px solid #eee;
 float: none;
@@ -338,6 +341,7 @@ float: none;
   position: absolute;
 float: none;
 display: block;
+  z-index: 100;
 }
 .gnav .ggnav li ul li {
   overflow: hidden;
@@ -361,11 +365,13 @@ display: block;
   }
   .gnav .ggnav li ul li ul:before {/*layer-2▷*/
     position: absolute;
-    content: "";
-    top: 15px;
-    left: 30px;
-    border: 5px solid transparent;
-    border-left: 5px solid #fff;
+    content: ">";
+    /*top: 15px;*/
+    color: white;
+    left: -15px;
+margin-top: 11px;
+    /*border: 5px solid transparent;*/
+    /*border-left: 5px solid #fff;*/
 float: none;
   }
   .gnav .ggnav li ul li ul li a {
@@ -382,21 +388,21 @@ float: none;
     left: -100px;
 float: none;
   }
-  .gnav .ggnav li ul li ul.left:before,/*layer-2-left▷*/
-  .gnav .ggnav li ul li ul li ul.left:before {/*layer-3-left▷*/
+  .gnav .ggnav li ul li ul.left:before,
+  .gnav .ggnav li ul li ul li ul.left:before {
     position: absolute;
-    content: "";
+    content: "◆◆";
     top: 15px;
     left: 100px;
     border: 5px solid transparent;
     border-right: 5px solid #fff;
   }
-  .gnav .ggnav li ul li ul.left li:hover > a {/*layer-2-left*/
+  .gnav .ggnav li ul li ul.left li:hover > a {
     color: pink;
 /*    background: #afc6e2;*/
   background: #3f6784;
   }
-  .gnav .ggnav li ul li ul li ul.left li:hover > a {/*layer-3-left*/
+  .gnav .ggnav li ul li ul li ul.left li:hover > a {
     color: purple;
 /*    background: #afc6e2;*/
   background: #3f6784;
