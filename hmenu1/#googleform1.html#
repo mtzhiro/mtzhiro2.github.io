@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>hmenu1</title>
+<link rel="shortcut icon" href="https://hirosato.info/wp-content/uploads/2019/09/t4510logo.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="https://hirosato.info/wp-content/uploads/2019/09/t4510logo.png" />
+
+  <link rel="stylesheet" href="style.css"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flexibility/1.0.6/flexibility.js"></script>
+<script>
+</script>
+
+</head>
+<body>
+<div class="container">
+
+
+            <!--------------------------------------------------------->
+            <!--  header    -->
+            <!--------------------------------------------------------->
+<!--header>
+<nav tabindex="-1" class="menu">
+  <ul tabindex="-1" class="menu-ul">
+<a href="#" style="font-size: 14pt; left: -2px;">ｘ</a>
+    <li><a href="https://hiq.biz/cpanel12018/home.php">cpanel1</a></li>
+  </ul>
+</nav>
+            </header-->
+<main style="margin-top: -30px;">
+  <div class="hblock">
+    <h1></h1>
+    <p>
+last test
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfvsGyVPbnJHwnb7KL0vIfiR7D_miZfu-XNg29TGQlr4g03dQ/formResponse" target="_self" method="POST" id="mG61Hd" jsmodel="TOfxwf Q91hve CEkLOc" data-shuffle-seed="7424848655849490298" data-response="%.@.[]]" data-first-entry="0" data-last-entry="1" data-is-first-page="true">
+<textarea name="entry.1540073232" class="quantumWizTextinputPapertextareaInput exportTextarea" jsname="YPqjbf" data-rows="1" tabindex="0" aria-label="回答を入力" jscontroller="gZjhIf" jsaction="input:Lg5SV;ti6hGc:XMgOHc;rcuQ6b:WYd;" dir="auto" data-initial-dir="auto" data-initial-value="" aria-labelledby="i1" aria-describedby="i2 i3" style="height: 24px;"></textarea>
+
+<input type="submit" class="submit-btn">
+</form>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+</p>
+  </div>
+
+
+</main>
+
+
+<aside>
+  <p></small></p>
+</aside>
+
+            <!--------------------------------------------------------->
+            <!--  footer    -->
+            <!--------------------------------------------------------->
+            <footer>
+                <p></p>
+            </footer>
+
+
+
+
+</div><!-- end container -->
+
+
+</body>
+</html>
