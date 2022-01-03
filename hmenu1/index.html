@@ -11,9 +11,13 @@
   <link rel="stylesheet" href="style.css"/>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/flexibility/1.0.6/flexibility.js"></script>
 </head>
-<body>
+<body onload="document.getElementById('itxtaddm').focus();">
 <div class="container">
-
+<form name="faddmemo" action="https://hirosato.info/githubio/addmemo.php" method="post">
+　　　　<textarea rows="1" cols="20" name="txtaddm" id="itxtaddm" ></textarea>
+  <input type="submit" name="submaddm" id="isubmaddm" value="add">
+  <br>
+</form>
 
 
             <!--------------------------------------------------------->
@@ -35,14 +39,46 @@
 <!--
 
 <pre style="white-space: pre-wrap;">
-<a href="https://docs.google.com/spreadsheets/d/1LbEwsZRXxTOBSyRItSJdTcum5eCiDMAqojzZsXt_saw/edit#gid=0">GD: hmemo</a> <a href="https://docs.google.com/document/d/1lmsLwmF9HLZfE1dGLcN3DxQaH6azMOBSTdEux605_EQ/edit">[doc]</a> <a href="https://d0i.org/hiq/admin5963.php">TXT: hmemo</a>
+<a href="
+https://docs.google.com/spreadsheets/d/1LbEwsZRXxTOBSyRItSJdTcum5eCiDMAqojzZsXt_saw/edit#gid=0
+">GD: hmemo</a> <a href=
+"
+https://docs.google.com/document/d/1lmsLwmF9HLZfE1dGLcN3DxQaH6azMOBSTdEux605_EQ/edit
+">
+[doc]
+</a> <a href=
+"
+https://d0i.org/hiq/admin5963.php
+">
+TXT: hmemo
+</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1ueUM-6WLI8SuB4QCNw3oEL0u-NI0zDRl91Z0_-GSCZI/edit#gid=0">nav design</a>
-lifelog <a href="https://hirosato.info/lifelog/admin5963.php">https://hirosato.info/lifelog/admin5963.php</a>
+<a href=
+"
+https://docs.google.com/spreadsheets/d/1ueUM-6WLI8SuB4QCNw3oEL0u-NI0zDRl91Z0_-GSCZI/edit#gid=0
+">
+nav design
+</a>
+lifelog <a href=
+"
+https://hirosato.info/lifelog/admin5963.php
+">
+https://hirosato.info/lifelog/admin5963.php
+</a>
 
-githubmemo <a href="https://hirosato.info/githubio/admin5963.php">https://hirosato.info/githubio/admin5963.php</a>
+githubmemo <a href=
+"
+https://hirosato.info/githubio/admin5963.php
+">
+https://hirosato.info/githubio/admin5963.php
+</a>
 
-dmail <a href="https://hirosato.info/dmail/admin5963.php">https://hirosato.info/dmail/admin5963.php</a>
+dmail <a href=
+"
+https://hirosato.info/dmail/admin5963.php
+">
+https://hirosato.info/dmail/admin5963.php
+</a>
 
 
 -->
@@ -55,7 +91,14 @@ dmail <a href="https://hirosato.info/dmail/admin5963.php">https://hirosato.info/
   <ul class="ggnav" id="iggnav">
     <li><a href="#">cpanel</a>
       <ul>
-       <li><a href="https://d0i.org">main1-1</a></li>
+       <li><a href="#">memo</a>
+         <ul>
+           <li><a href="https://d0i.org/hiq/admin5963.php">TXT</a></li>
+           <li><a href="https://docs.google.com/spreadsheets/d/1LbEwsZRXxTOBSyRItSJdTcum5eCiDMAqojzZsXt_saw/edit#gid=0">GD</a></li>
+           <li><a href="https://docs.google.com/document/d/1lmsLwmF9HLZfE1dGLcN3DxQaH6azMOBSTdEux605_EQ/edit">[GDoc]</a></li>
+           <li><a href="https://d0i.org/vk18">viki</a></li>
+         </ul>
+       </li>
        <li><a href="https://hiq.biz">main1-2</a></li>
        <li><a href="#">main1-3</a>
          <ul>
@@ -140,7 +183,21 @@ dmail <a href="https://hirosato.info/dmail/admin5963.php">https://hirosato.info/
   </div>
   <div class="hblock">
     <h1></h1>
-    <p></p>
+    <p>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvsGyVPbnJHwnb7KL0vIfiR7D_miZfu-XNg29TGQlr4g03dQ/viewform?embedded=true" width="400" height="375" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe><br>
+<a href="https://docs.google.com/spreadsheets/d/1V7SXv-mLElG0jQqc4ydpCByLWFKMtz_1a-pYeFnQhqo/edit?resourcekey#gid=323701950">result</a><br>
+</p>
+  </div>
+
+
+  <div class="hblock">
+    <h1></h1>
+    <p>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSp965jCn70RMUH74_F7W3W5gCEqmtg95L3tV8CcqzU6E52ZVF8DQKMad09WjZsNqVubXvRVouY2xyq/pub?embedded=true"></iframe>
+
+</p>
+
   </div>
 
 
@@ -164,13 +221,14 @@ dmail <a href="https://hirosato.info/dmail/admin5963.php">https://hirosato.info/
 
   <div class="hblock">
     <h1></h1>
-    <p></p>
-  </div>
-
-
-  <div class="hblock">
-    <h1></h1>
-    <p></p>
+    <p>
+<iframe id="inlineFrame"
+    title="Inline Frame"
+    width="100%"
+    height="auto"
+    src="https://hirosato.info/githubio/readmemo.php">
+</iframe>
+</p>
   </div>
 
 
