@@ -86,74 +86,38 @@ https://hirosato.info/dmail/admin5963.php
 <main style="margin-top: -30px;">
   <div class="hblock">
     <p>
-<!--form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfvsGyVPbnJHwnb7KL0vIfiR7D_miZfu-XNg29TGQlr4g03dQ/formResponse" target="_blank" method="POST" id="mG61Hd" jsmodel="TOfxwf Q91hve CEkLOc" data-shuffle-seed="7424848655849490298" data-response="%.@.[]]" data-first-entry="0" data-last-entry="1" data-is-first-page="true">
+<script>
+//  var btn = document.getElementById('btn');
+  function gosubm() {
+    tatext = document.getElementById('ientry1855470520').value;
+    i3text = document.getElementById('itesti3').value;
+    i4text = document.getElementById('itesti4').value;
+    var alldata = tatext + '<>' + i3text + '<>' + i4text;
+    document.getElementById('ientry1855470520').value = alldata;
+//    document.myform.submit();
+    document.myForm.target = "hoge";
+    window.open("about:blank", "hoge", "width=1,height=1,left=1000");
+    document.myForm.submit();
+    document.getElementById('ientry1855470520').value = '';
+    document.getElementById('itesti3').value = '';
+    document.getElementById('itesti4').value = '';
+    document.getElementById('ientryres').value = alldata;
+   }
+
+</script>
+
+<form name="myForm" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfvsGyVPbnJHwnb7KL0vIfiR7D_miZfu-XNg29TGQlr4g03dQ/formResponse"  method="POST" id="mG61Hd" jsmodel="TOfxwf Q91hve CEkLOc" data-shuffle-seed="7424848655849490298" data-response="%.@.[]]" data-first-entry="0" data-last-entry="1" data-is-first-page="true">
 
 <input type="hidden" name="entry.1540073232" id="ientry1540073232" value="">
 <input type="hidden" name="entry.251084976"  value="hmenu1">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <textarea name="entry.1855470520" id="ientry1855470520" class="quantumWizTextinputPapertextareaInput exportTextarea" jsname="YPqjbf" data-rows="1" tabindex="0" aria-label="回答を入力" jscontroller="gZjhIf" jsaction="input:Lg5SV;ti6hGc:XMgOHc;rcuQ6b:WYd;" dir="auto" data-initial-dir="auto" data-initial-value="" aria-labelledby="i1" aria-describedby="i2 i3" style="height: 24px;" rows="1" cols="10"></textarea>
+<input type="button" id="btn" value="send" onclick="gosubm();">
+<input type="text" name="texti3" id="itesti3" size="1">
+<input type="text" name="testi3" id="itesti4" size="1">
+<textarea name="entryres" id="ientryres"rows="1" cols="1"></textarea><!--input type="submit" class="submit-btn" onclick="formsub();"-->
+</form>
 
-<input type="submit" class="submit-btn" >
-</form-->
-
-<script>
-  window.onload = function() {
-    var form = document.createElement('form');
-    form.action = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSfvsGyVPbnJHwnb7KL0vIfiR7D_miZfu-XNg29TGQlr4g03dQ/formResponse';
-//    form.target = '_blank';
-    form.id = 'mG61Hd';
-    form.jsmodel = 'TOfxwf Q91hve CEkLOc';
-    form.data-shuffle-seed = '7424848655849490298';
-    form.data-response = '%.@.[]]';
-    form.data-first-entry = '0';
-    form.data-last-entry = '1';
-    form.data-is-first-page = 'true';
-
-    var i1 = document.createElement('input');
-    i1.name = 'entry.1540073232';
-    i1.type = 'hidden';
-    i1.id = 'ientry1540073232';
-    i1.value = '';
-    form.appendChild(i1);
-
-    var i2 = document.createElement('input');
-    i2.name = 'entry.251084976';
-    i2.type = 'hidden';
-    i2.value = 'hmenu1';
-    form.appendChild(i2);
-
-    var i3 = document.createElement('input');
-    i3.name = 'testi3';
-    i3.id = 'itesti3';
-    i3.type = 'text';
-    i3.value = '';
-    form.appendChild(i3);
-
-    var i4 = document.createElement('input');
-    i4.name = 'testi4';
-    i4.id = 'itesti4';
-    i4.type = 'text';
-    i4.value = '';
-    form.appendChild(i4);
-
-    var t1 = document.createElement('textarea');
-    t1.name = 'entry.1855470520';
-    t1.id = 'ientry1855470520';
-    t1.value = 'ientry1855470520';
-    form.appendChild(t1);
-
-    document.body.appendChild(form);
-
-  }
-  function formsub () {
-    form = document.getElementById('mG61Hd');
-    i3text = document.getElementById('itesti3').value;
-    i4text = document.getElementById('itesti4').value;
-    var alldata = i3text + '<>' . i4text;
-    document.getElementById('ientry1855470520').value = alldata;
-    form.submit();
-  }
-</script>
 
 
 <div style="width: 100%;">
