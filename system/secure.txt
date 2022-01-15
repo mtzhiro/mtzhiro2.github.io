@@ -1,0 +1,6 @@
+awk -F"/" '{ print "/"$4"/"$5  }' /var/log/httpd/access_log |  sort | uniq -c  > /tmp/aa
+awk -F"/" '{ print "/"$4"/"$5  }' /var/log/httpd/access_log-20220102 |  sort | uniq -c  >> /tmp/aa
+awk -F"/" '{ print "/"$4"/"$5  }' /var/log/httpd/access_log-20220109 |  sort | uniq -c  >> /tmp/aa
+awk -F"/" '{ print "/"$2"/"$3"/"$4"/"$5  }' /var/log/httpd/error_log |  sort | uniq -c  >> /tmp/aa
+awk -F"/" '{ print "/"$2"/"$3"/"$4"/"$5  }' /var/log/httpd/error_log-20220102 |  sort | uniq -c  >> /tmp/aa
+awk -F"/" '{ print "/"$2"/"$3"/"$4"/"$5  }' /var/log/httpd/error_log-20220109 |  sort | uniq -c  >> /tmp/aa
