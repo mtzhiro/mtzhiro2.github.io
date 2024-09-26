@@ -4,4 +4,4 @@ https://docs.google.com/document/d/1jm-Uk8Ogx_UgZ1k1lMQbuKBLYTjp_oWEJsQJdOegVwE/
 
 no objetivo final, quero criar um sistema de gerenciamento de referências opensource .. temporário aqui https://kakensha.com.br/openpapyrus .. aberto talvez com licença MIT.
  WP , webkitSpeechRecognition() ja⇒pt_BR Web animation 9VAe  PHP learn pair programming from celular
-frict.org frict-org-b-side WPj PHP CentOS Linux Lubuntu Emacs Lubuntu PHP pixman QR code with browser
+frict.org frict-org-b-side WPj PHP CentOS Linux Lubuntu Emacs Lubuntu PHP pixman QR code with browser openai SA wor ,
